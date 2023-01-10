@@ -1,0 +1,9 @@
+.custom_link { 
+    text-decoration: none;
+    color: #000;
+    font-family: sans-serif;
+    cursor: pointer;
+}
+.custom_link:hover{ 
+    color: rgb(109, 109, 109);
+}
